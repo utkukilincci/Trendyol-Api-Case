@@ -7,11 +7,11 @@ public class RequestSpec {
 
     RequestSpecification requestSpecification;
     private String baseUrl = "https://api.spotify.com";
-    private String token = "BQB-re54EvB8_1qlQBAVQXDtyPsLniXuD-pB79SnfFUX_" +
-            "-rHXIBkEaFSqFzGF4Ej1P7znhRaIsy50bs4AG_uR837Rm1zlbZH0qIVFoJ0nvYB_v-VNUA-aTO" +
-            "wYI9BFNGjaNX9hA1vB5U3z88c5YZ4qIFh-WIz5LodXiGewK78HtQ5lVhYLQMRh" +
-            "ihRHAudIvyZ5MGrU69sb91rKe6ExtBNHASFek83J-Sb" +
-            "TIqBSI8tSE_hsuMbx1FSMRUZY3KFsaUV8XnwDcze4Zxp6bDDWOt_T3Rmx-LIboOw5gmNONFv";
+    private String token = "BQCtsFiTfqm-QhdEC9nceFYUB-pjMbe9WmdWMkimxpG01tlq" +
+            "V68ms7Ob1dxiG2CY97mpt5mMdwTnJQdQMOD7kUySAJYLwa3xxiEPKy8gdo9jysDMOt2b" +
+            "y8brIzEZm8se-vb_ngh9riHyTLpsNiJ7ginRmMbubW3NT1dyiDdueWk9HxZWotfjEiMlu" +
+            "v0vQD75smTNFJpXrtVUVia0Gth9IXQvGxRh5wWK4JIwR" +
+            "hWFijQHK1qGYU6OnR92kSBwwvrQcTihwxIda3Wd1S1On_Js-2Go8OKiPeb6w1RJQ86n";
 
     public RequestSpec(String endPoint){
         requestSpecification = new RequestSpecBuilder()
