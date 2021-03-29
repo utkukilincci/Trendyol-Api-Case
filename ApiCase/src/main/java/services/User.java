@@ -12,7 +12,6 @@ public class User extends RequestSpec {
         super("/v1/me");
     }
 
-
     public String getUserId(int statusCode){
 
         Response response =
@@ -24,8 +23,9 @@ public class User extends RequestSpec {
                 .extract()
                 .response();
 
-        //List<String> a  = ((RestAssuredResponseImpl) response).response().path("tracks.items.id");
-        return response.jsonPath().getString("id");
+        String userId  = response.jsonPath().getString("id");
+        System.out.println("Oluşturulan user ID : " +userId);
+        return userId;
 
     }
 
