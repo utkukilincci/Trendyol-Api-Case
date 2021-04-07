@@ -14,7 +14,7 @@ public class SpotifyPlaylistApiTests extends BaseTest{
     }
 
     @Test(priority=2)
-    public void playlistJourney(){
+    public void addTrackToListTest(){
         trackList.add(search.findTrack("Deli",200));
         trackList.add(search.findTrack("Beni Benimle Bırak",200));
         trackList.add(search.findTrack("Dünyanın Sonuna Doğmuşum",200));
