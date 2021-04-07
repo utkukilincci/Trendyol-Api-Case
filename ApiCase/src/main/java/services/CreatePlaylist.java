@@ -1,6 +1,6 @@
 package services;
 
-import helpersAndConstant.Helper;
+import helpers.Helper;
 import io.restassured.response.Response;
 import org.json.JSONObject;
 import specs.RequestSpec;

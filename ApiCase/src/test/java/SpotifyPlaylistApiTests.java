@@ -1,7 +1,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import static helpersAndConstant.Constant.*;
+import static helpers.Data.*;
 
 
 public class SpotifyPlaylistApiTests extends BaseTest{

@@ -2,7 +2,7 @@ package specs;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
-import static helpersAndConstant.Constant.*;
+import static helpers.Data.*;
 
 public class RequestSpec {
 
