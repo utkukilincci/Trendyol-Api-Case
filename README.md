@@ -1,1 +1,1 @@
-# Trendyol-Api-Case
+# Spotify-Api-Automaiton
