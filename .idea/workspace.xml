@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f03edffb-7217-4870-b68e-b40de6228e00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__com_google_guava_guava_10_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__io_rest_assured_json_path_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__io_rest_assured_rest_assured_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__io_rest_assured_xml_path_4_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_json_json_20201115.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/ApiCase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/helpers/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/helpers/Helper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/services/CreatePlaylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/services/Playlists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/services/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/services/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/specs/RequestSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/java/specs/ResponseSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/resources/deleteBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/main/resources/playlistBody.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiCase/src/test/java/SpotifyPlaylistApiTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27pEMUOjHsuI3UC1vzqze50Sz0S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/base" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="helpers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="matchers" />
+      <recent name="helpers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PlaylistControllerTests.createPlaylistTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="spotify-api-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlaylistControllerTests" />
+      <option name="METHOD_NAME" value="createPlaylistTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PlaylistControllerTests.createPlaylistTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f03edffb-7217-4870-b68e-b40de6228e00" name="Changes" comment="" />
+      <created>1650008579998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650008579998</updated>
+      <workItem from="1650008581482" duration="26000" />
+      <workItem from="1650008707931" duration="5628000" />
+      <workItem from="1650108203341" duration="7229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/PlaylistControllerTests.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

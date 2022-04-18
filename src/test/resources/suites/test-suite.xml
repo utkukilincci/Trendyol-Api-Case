@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="spotify-api-test-project" configfailurepolicy="continue">
+    <test name="spotify-api-acceptance-tests">
+        <classes>
+            <class name="PlaylistControllerTests"></class>
+        </classes>
+    </test>
+</suite>
