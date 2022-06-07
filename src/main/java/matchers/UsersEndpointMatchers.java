@@ -1,6 +1,5 @@
 package matchers;
 
-import controller.Playlists;
 import models.PlayList;
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
